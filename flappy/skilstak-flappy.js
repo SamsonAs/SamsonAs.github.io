@@ -70,7 +70,7 @@ var CONFIG = {
     } 
   },
   "gameover": {
-    "text": "You were crushed\nLike the\nCapitalist scum!",
+    "text": "You\nCapitalist\nPigdog",
     "offset": -150,
     "style": {
       "font": "25px sans-serif", 

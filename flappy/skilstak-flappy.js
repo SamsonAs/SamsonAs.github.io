@@ -70,10 +70,10 @@ var CONFIG = {
     } 
   },
   "gameover": {
-    "text": "You were crushed\nLike the capitalist scum!",
+    "text": "You were crushed\nLike the\nCapitalist scum!",
     "offset": -150,
     "style": {
-      "font": "100px sans-serif", 
+      "font": "75px sans-serif", 
       "fill": "#b58900",
       "align": "center"
     }, 

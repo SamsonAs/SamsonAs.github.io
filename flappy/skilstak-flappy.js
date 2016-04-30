@@ -16,13 +16,13 @@ var CONFIG = {
       "width": 46,
       "height": 64,
       "scale": 1,
-      "gravity": 472648196324293642946297462,
-      "outkill": false,
+      "gravity": 1200,
+      "outkill": true,
       "flap": {
-        "velocity": -8675309,
+        "velocity": -420,
         "frame": 0,
         "rotate": -40,
-        "norotate": false
+        "norotate": true
       },
       "end": {
         "offset": 100,
@@ -30,7 +30,7 @@ var CONFIG = {
         "scale": 1
       },
       "animation": {
-        "rate": 0 
+        "rate": 0
       }
   },
   "sign": {
@@ -60,7 +60,7 @@ var CONFIG = {
     }
   },
   "highscore": {
-    "text": "You Can't Count: ",
+    "text": "High Score: ",
     "offset": 250,
     "key": "skilstak-flappy-highscore",
     "style": {
@@ -70,7 +70,7 @@ var CONFIG = {
     } 
   },
   "gameover": {
-    "text": "YOU\nDEATHED",
+    "text": "Game\nOver",
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 

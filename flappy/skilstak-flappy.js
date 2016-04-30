@@ -73,7 +73,7 @@ var CONFIG = {
     "text": "You were crushed\nLike the\nCapitalist scum!",
     "offset": -150,
     "style": {
-      "font": "75px sans-serif", 
+      "font": "50px sans-serif", 
       "fill": "#b58900",
       "align": "center"
     }, 
